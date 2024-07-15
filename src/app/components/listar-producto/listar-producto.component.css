@@ -1,0 +1,8 @@
+.fa-solid{
+    cursor: pointer;
+    margin-left: 7px;
+}
+
+.fa-solid:hover{
+  color: rgb(0, 200, 200);  
+}
